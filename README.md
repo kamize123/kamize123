@@ -11,8 +11,8 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 
 2026 objectives
 ```
-- ~~Get a driving license~~.
-- Get knowledge domain about wood manifactoring.
-- Achieve a TOEIC score of 900
-- Sell 1 product.
+[x] Get a driving license.
+[ ] Get knowledge domain about wood manifactoring.
+[ ] Achieve a TOEIC score of 900
+[ ] Sell 1 product.
 ```
