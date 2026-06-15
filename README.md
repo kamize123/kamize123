@@ -1,4 +1,4 @@
-## 👋 Hi!, I'm Jason | Software Maker.
+## 👋 Hi!, I'm Jason | Founder.
 
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -7,14 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=haons211"> 
 
 > **Work Hard, Build More, and Share Stories. Always Curious.**
-
-Hey there! 👋 I'm a passionate Software Engineer who loves building scalable applications and solving complex problems with clean and efficient code.  I believe in learning in public and sharing knowledge through my blog posts and open-source contributions - because tech is more fun when we build together!  
-
 Feel free to explore my projects, reach out for collaborations, or just chat about Technology - I'm always excited to connect with fellow tech enthusiasts! 🚀
 
-2025 objectives
+2026 objectives
 ```
-- Solve 100 LeetCode problems
+- ~~Get a driving license~~.
+- Get knowledge domain about wood manifactoring.
 - Achieve a TOEIC score of 900
-- Learn the fundamentals of Linux & Networking
+- Sell 1 product.
 ```
